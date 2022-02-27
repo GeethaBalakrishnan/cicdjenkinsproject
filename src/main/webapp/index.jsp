@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World Project by Geetha Balakrishnan :-) </h2>
+<h2> First CICD Project through Jenkins by Geetha Balakrishnan :-) </h2>
 </body>
 </html>
